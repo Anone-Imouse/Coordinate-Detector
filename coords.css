@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  pointer-events:none;
+}
+body {
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  display: flex;
+  font-family: sans-serif, "Open Sans", "Gotham Rounded", Roboto, Arial;
+  font-weight: 900;
+  background: #ff7;
+  text-align: center;
+}
